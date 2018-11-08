@@ -1,0 +1,7 @@
+C:\Users\nurme\Desktop\c#\7-11-2018\homeMeetingRoom\homeMeetingRoom\obj\Debug\HotelManagementApp.csprojAssemblyReference.cache
+C:\Users\nurme\Desktop\c#\7-11-2018\homeMeetingRoom\homeMeetingRoom\obj\Debug\HotelManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\nurme\Desktop\c#\7-11-2018\homeMeetingRoom\homeMeetingRoom\bin\Debug\homeMeetingRoom.exe.config
+C:\Users\nurme\Desktop\c#\7-11-2018\homeMeetingRoom\homeMeetingRoom\bin\Debug\homeMeetingRoom.exe
+C:\Users\nurme\Desktop\c#\7-11-2018\homeMeetingRoom\homeMeetingRoom\bin\Debug\homeMeetingRoom.pdb
+C:\Users\nurme\Desktop\c#\7-11-2018\homeMeetingRoom\homeMeetingRoom\obj\Debug\homeMeetingRoom.exe
+C:\Users\nurme\Desktop\c#\7-11-2018\homeMeetingRoom\homeMeetingRoom\obj\Debug\homeMeetingRoom.pdb
